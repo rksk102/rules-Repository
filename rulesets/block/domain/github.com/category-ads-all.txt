@@ -1,3 +1,4 @@
+pinggai0.caixin.com
 pinggai1.caixin.com
 pinggai2.caixin.com
 pinggai3.caixin.com
@@ -39,6 +40,7 @@ jads.co
 adivery.com
 juicyads.com
 kepler-37b.com
+lqc006.com
 moat.com
 moatads.com
 mobwithad.com
@@ -59,6 +61,7 @@ unioncom.cc
 telecome.cn
 toboads.com
 taboola.com
+ad.wang502.com
 adx.36kr.com
 stat.chinaso.com
 das-rpt-log.ucloud.cn
@@ -66,6 +69,7 @@ adq.chinaso.com
 shhs-ydd8x2.yjrmss.cn
 click.ali213.net
 hubcloud.com.cn
+ad.12306.cn
 pbmp.ali213.net
 ad.unimhk.com
 dn-growing.qbox.me
@@ -209,9 +213,13 @@ trace.qq.com
 ugdtimg.com
 wit.qq.com
 fenxi.com
+lianmeng.360.cn
 mediav.com
 mvad.com
 qhupdate.com
+s.360.cn
+s.so.360.cn
+s.union.360.cn
 adeventtracker.spotify.com
 adstudio-assets.scdn.co
 bloodhound.spotify.com
@@ -224,6 +232,7 @@ js-agent.newrelic.com
 ads.union.jd.com
 ads-union.jd.com
 c-nfa.jd.com
+cps.360buy.com
 gia.jd.com
 img-x.jd.com
 jzt.jd.com
@@ -232,6 +241,7 @@ adbehavior.ximalaya.com
 adse.wsa.ximalaya.com
 adse.ximalaya.com
 data.flurry.com
+2016.sina.cn
 ad.sina.com.cn
 adbox.sina.com.cn
 adimages.sina.com.hk
@@ -253,6 +263,7 @@ count.video.sina.com.cn
 counter.sina.com.cn
 cre.dp.sina.cn
 cre-dp.sina.cn
+d00.sina.com.cn
 dcads.sina.com.cn
 dl.kjava.sina.cn
 dmp.sina.cn
@@ -432,6 +443,7 @@ track.sohu.com
 uranus.sogou.com
 v2.reachmax.cn
 e8aeb8bbdbbd7.cdn.sohucs.com
+643108e7617ef.cdn.sohucs.com
 ssp.api.tappx.com
 alog.umeng.com
 alog.umengcloud.com
@@ -481,6 +493,7 @@ apoll.m.taobao.com
 atanx.alicdn.com
 atanx2.alicdn.com
 c-adash.m.taobao.com
+cdn0.mobmore.com
 click.aliyun.com
 click.mz.simba.taobao.com
 cm.ipinyou.com
@@ -490,9 +503,14 @@ ex.puata.info
 fav.simba.taobao.com
 feedback.whalecloud.com
 ff.win.taobao.com
+fm.p0y.cn
 g.click.taobao.com
 g.tbcdn.cn
 gma.alicdn.com
+gtms01.alicdn.com
+gtms02.alicdn.com
+gtms03.alicdn.com
+gtms04.alicdn.com
 h-adashx.ut.ele.me
 h-adashx.ut.taobao.com
 h-adashx.ut.youku.com
@@ -511,6 +529,7 @@ m.intl.taobao.com
 m.simba.taobao.com
 match.p4p.1688.com
 material.istreamsche.com
+mlt01.com
 nbsdk-baichuan.alicdn.com
 nbsdk-baichuan.taobao.com
 osfota.cdn.aliyun.com
@@ -675,6 +694,7 @@ eiv.baidu.com
 em.baidu.com
 entry.baidu.com
 ers.baidu.com
+f10.baidu.com
 fc-feed.cdn.bcebos.com
 fclick.baidu.com
 fclog.baidu.com
@@ -694,6 +714,7 @@ idm-su.baidu.com
 iebar.baidu.com
 ikcode.baidu.com
 img.taotaosou.cn
+img01.taotaosou.cn
 imgstat.baidu.com
 iwanad.baidu.com
 j.br.baidu.com
