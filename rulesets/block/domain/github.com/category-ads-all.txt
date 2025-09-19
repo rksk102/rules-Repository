@@ -1,4 +1,3 @@
-pinggai0.caixin.com
 pinggai1.caixin.com
 pinggai2.caixin.com
 pinggai3.caixin.com
@@ -14,6 +13,5 @@ bloodhound.spotify.com
 apilog-web.acfun.cn
 analytics.google.com
 e8aeb8bbdbbd7.cdn.sohucs.com
-643108e7617ef.cdn.sohucs.com
 log-sdk.gifshow.com
 wlog.kuaishou.com
