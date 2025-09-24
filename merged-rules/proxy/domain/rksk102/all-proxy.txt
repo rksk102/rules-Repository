@@ -2488,6 +2488,7 @@ aphe.ac.uk
 api-extractor.com
 api.ai
 api.news
+api.palworldgame.com
 apiary.io
 apibay.org
 apigee.com
@@ -20817,6 +20818,7 @@ ocry.com
 ocsp-certum.com
 ocsp-responder.com
 october-review.org
+octocaptcha.com
 ocul.us
 oculus-china.com
 oculus.com
