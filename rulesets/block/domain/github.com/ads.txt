@@ -9337,6 +9337,7 @@ api.myadsget.com
 api.newad.ifeng.com
 api.newbelden.com
 api.newsfeed.intl.miui.com
+api.open.oppomobile.com
 api.pingstart.com
 api.poll.aiseet.atianqi.com
 api.primecaster.net
