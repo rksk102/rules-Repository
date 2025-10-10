@@ -16624,7 +16624,6 @@ cdn.optmn.cloud
 cdn.perfdrive.com
 cdn.pocoiq.cn
 cdn.polarbyte.com
-cdn.puata.info
 cdn.pyadx.com
 cdn.qgr.ph
 cdn.qgraph.io
@@ -29554,7 +29553,6 @@ ewyvuznndlmrk.online
 ewywma.icu
 ewzjbeqw.com
 ex.mobmore.com
-ex.puata.info
 ex.tanx.com
 exacdn.com
 exactag.com
@@ -63949,6 +63947,7 @@ pu.pretunique.fr
 pu5hk1n2020.com
 puabhxebvxluh.space
 puabvo.com
+puata.info
 pub-referral-widget.current.us
 pub.funshion.com
 pub.mop.com
