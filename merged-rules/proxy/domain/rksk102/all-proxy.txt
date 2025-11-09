@@ -8109,7 +8109,6 @@ delcamp.net
 delcamtv.com
 delcamuniversity.com
 delcamusa.com
-delicious.com
 delicious.com.au
 dell.ac
 dell.am
@@ -8276,7 +8275,6 @@ dementianet.ac.uk
 dementiaresearchinstitute.ac.uk
 demo.unlock-music.dev
 democracy.earth
-democrats.org
 demonoid.is
 demoprint.com
 demos.ac.uk
