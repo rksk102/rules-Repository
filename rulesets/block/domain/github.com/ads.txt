@@ -6999,13 +6999,9 @@ adworldmedia.net
 adwstats.com
 adwx6vcj.com
 adx-bid.tianzhuobj.com
-adx-bj-req.anythinktech.com
-adx-bj.anythinktech.com
-adx-cn.anythinktech.com
 adx-drcn.op.dbankcloud.cn
 adx-exchange.toast.com
 adx-open-service.youku.com
-adx-os.anythinktech.com
 adx-static.ksosoft.com
 adx.36kr.com
 adx.ads.heytapmobi.com
@@ -9257,6 +9253,7 @@ anyrelationsandin.com
 anysad.pro
 anysdk.com
 anysize.pro
+anythinktech.com
 anytimebananarecoil.com
 anytimespurt.com
 anytrack.io
@@ -9432,7 +9429,6 @@ api.aixifan.com
 api.all-internet.jp
 api.analytics.omgpop.com
 api.anti.wauee.com
-api.anythinktech.com
 api.apiok.net.iberostar.com
 api.appodeal.com
 api.apps.sina.cn
@@ -18069,7 +18065,6 @@ cmx.autohome.com.cn
 cmxfbwwuwdyjq.site
 cmyiojnzfirqc.website
 cmzaly.gebrueder-goetz.de
-cn-api.anythinktech.com
 cn-go.experian.com
 cn.bidushe.com
 cn.innity-asia.com
@@ -21949,7 +21944,6 @@ d9r4lqt28t1fm.cloudfront.net
 d9w.fl1c.com
 d9yk47of1efyy.cloudfront.net
 da-ads.com
-da.anythinktech.com
 da.bodenhaus.de
 da.daji.com
 da.freo.nl
@@ -22783,7 +22777,6 @@ datingtop-flirt.com
 datingtop-flirtses.com
 datingtopgirls.com
 datjwuqifa.com
-datk.anythinktech.com
 datouniao.com
 datsoaksou.net
 datsunthick.com
@@ -84448,7 +84441,6 @@ tk.airfrance.ua
 tk.airfrance.us
 tk.airfrance.vn
 tk.alexandermcqueen.com
-tk.anythinktech.com
 tk.apprentis-auteuil.org
 tk.assurland.com
 tk.assurlandpro.com
