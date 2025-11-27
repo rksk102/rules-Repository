@@ -2,7 +2,7 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2025-11-27 14:49:15
+# Date:     2025-11-27 15:10:23
 # Mode:     DOMAIN
 # Count:    0 (Raw: 0)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/apple-cn.txt
