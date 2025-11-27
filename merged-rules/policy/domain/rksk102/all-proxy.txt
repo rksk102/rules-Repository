@@ -1,3 +1,12 @@
+# ----------------------------------------
+# Strategy: policy
+# Type:     domain
+# Owner:    rksk102
+# Date:     2025-11-27 14:30:47
+# Mode:     DOMAIN
+# Count:    26132 (Raw: 26132)
+# Desc:     代理域名规则
+# ----------------------------------------
 000webhost.com
 01.org
 02weqj32.com
