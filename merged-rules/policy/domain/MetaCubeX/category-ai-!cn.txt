@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2025-11-27 17:01:49
+# Date:     2025-11-28 02:10:13
 # Mode:     DOMAIN
-# Count:    88 (Raw: 88)
+# Count:    92 (Raw: 92)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 ai.google.dev
@@ -33,6 +33,9 @@ coderabbit.ai
 coderabbit.gallery.vsassets.io
 cohere.ai
 cohere.com
+comfy.org
+comfyci.org
+comfyregistry.org
 copilot.microsoft.com
 coze.com
 cursor-cdn.com
@@ -80,6 +83,7 @@ openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
 openart.ai
 openrouter.ai
+oystermercury.top
 perplexity.ai
 perplexity.com
 poe.com

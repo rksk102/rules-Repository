@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2025-11-27 17:01:49
+# Date:     2025-11-28 02:10:13
 # Mode:     DOMAIN
-# Count:    6032 (Raw: 6032)
+# Count:    6033 (Raw: 6033)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -503,6 +503,7 @@ alicloudapi.com
 alicloudccp.com
 alidayu.com
 alidns.com
+aliexpress-media.com
 aliexpress.com
 alifanyi.com
 aligames.com
