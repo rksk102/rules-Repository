@@ -16812,6 +16812,8 @@ ntd.com
 ntd.tv
 ntdca.com
 ntdimg.com
+ntdofifreepc-tgc.cdn.hinet.net
+ntdofifreevcpc-tgc.cdn.hinet.net
 ntdtv-dc.com
 ntdtv.ca
 ntdtv.co.kr
@@ -17110,6 +17112,7 @@ offresspecialesbmw.ca
 offrezdesipods.com
 offworldindustries.com
 offworldindustries.net
+ofiii.com
 ofile.org
 ogakikyoritsu.co.jp
 ogameblog.com
