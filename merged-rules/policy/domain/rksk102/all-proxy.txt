@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2025-11-29 17:01:59
+# Date:     2025-11-30 06:30:06
 # Mode:     DOMAIN
-# Count:    26151 (Raw: 26151)
+# Count:    26154 (Raw: 26154)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -17151,6 +17151,8 @@ okex.com
 okinawabank.co.jp
 okk.tw
 okkisokuho.com
+okko.sport
+okko.tv
 okpool.me
 okx-dns.com
 okx-dns1.com
@@ -18133,6 +18135,7 @@ player.fm
 playerjs.io
 playfab.com
 playfabapi.com
+playfamily.ru
 playforceone.com
 playhearthstone.com
 playmation.com

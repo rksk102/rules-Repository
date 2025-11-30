@@ -2,7 +2,7 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2025-11-29 17:01:59
+# Date:     2025-11-30 06:30:06
 # Mode:     DOMAIN
 # Count:    6033 (Raw: 6033)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
