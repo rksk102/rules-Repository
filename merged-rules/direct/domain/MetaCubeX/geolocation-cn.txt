@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2025-11-30 17:01:59
+# Date:     2025-12-01 06:34:00
 # Mode:     DOMAIN
-# Count:    6033 (Raw: 6033)
+# Count:    6036 (Raw: 6036)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -3655,7 +3655,9 @@ meizu.cn
 meizu.com
 mengtuoshi.wang
 merach.com
+meta.law
 metalrevolution.com
+metaso.cn
 mfcteda.com
 mfuns.cn
 mgslb.com
@@ -5578,6 +5580,7 @@ xiaoyuankousuan.com
 xiaoyuxitong.com
 xiayx.com
 xiazaiba.com
+xiezuocat.com
 xiguaapp.cn
 xiguaapp.com
 xiguashipin.cn
