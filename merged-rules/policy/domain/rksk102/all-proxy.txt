@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2025-12-01 17:12:05
+# Date:     2025-12-02 05:23:39
 # Mode:     DOMAIN
-# Count:    26157 (Raw: 26157)
+# Count:    26170 (Raw: 26170)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -509,6 +509,8 @@
 7mmtv.sx
 7mmtv.tv
 7tb.cc
+7tv.app
+7tv.io
 8-d.com
 8008206616.com
 8111y.top
@@ -4871,6 +4873,7 @@ canonfoundation.org
 canonical.com
 canonproprinters.com
 canva.com
+canvastatus.com
 canyu.org
 caobian.info
 caochangqing.com
@@ -10585,6 +10588,8 @@ h2porn.com
 h528.com
 h5dm.com
 h5galgame.me
+habr.com
+habrastorage.org
 hackday.com.au
 hacken.cc
 hacker.org
@@ -14877,6 +14882,7 @@ metabora.io
 metabrainz.org
 metacloud.com
 metacpan.org
+metacritic.com
 metacubex.one
 metafilter.com
 metalpha.finance
@@ -19542,6 +19548,7 @@ rssmeme.com
 rstatic.net
 rt.com
 rtalabel.org
+rtbcdn.ru
 rthk.hk
 rthk.org.hk
 rti.org.tw
@@ -19593,6 +19600,7 @@ rutracker.org
 rutrecker.net
 rutrk.org
 rutube.ru
+rutubelist.ru
 ruvideos.net
 rxhj.net
 ryokoyomiuri.co.jp
@@ -21773,6 +21781,7 @@ tellapart.com
 tellme.pw
 tellmewhygame.com
 temetube.xyz
+temp-mail.org
 temu.com
 tenacy.com
 tenbyfotolia.com
@@ -23198,6 +23207,8 @@ vaultify.com
 vaultify.info
 vaultify.net
 vaultproject.io
+vbcdn.com
+vbcdn.net
 vbejeyv.shop
 vcanedge.com
 vce.com
@@ -23404,7 +23415,9 @@ viacbs.com
 viacom.com
 viacomcbs.com
 viacomcbspressexpress.com
+viber.co
 viber.com
+viber.me
 vica.info
 victimsofcommunism.org
 vid.me
