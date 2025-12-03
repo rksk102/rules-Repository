@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2025-12-02 17:13:45
+# Date:     2025-12-03 03:03:03
 # Mode:     DOMAIN
-# Count:    6036 (Raw: 6036)
+# Count:    6044 (Raw: 6044)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -3636,6 +3636,8 @@ media.paperclipclub.net
 medicexam.net
 meegobeta.com
 mei.com
+meican.com
+meicanstatic.com
 meifang.com
 meika360.com
 meilishuo.com
@@ -4104,6 +4106,7 @@ pkuh6.cn
 pkulaw.com
 pmphmooc.com
 pn1waq.com
+podcast.xyz
 poizon-inner.com
 poizon-inner.net
 poizon-support.com
@@ -4310,6 +4313,7 @@ qwen.ai
 qwenlm.ai
 qy.net
 qyer.com
+qyerstatic.com
 qyunapp.com
 qyyjt.cn
 qzhuye.com
@@ -5578,6 +5582,7 @@ xiaoxiaapi.com
 xiaoxiongxitong.com
 xiaoyuankousuan.com
 xiaoyuxitong.com
+xiaoyuzhoufm.com
 xiayx.com
 xiazaiba.com
 xiezuocat.com
@@ -5656,6 +5661,9 @@ xxtmail.com
 xycdn.com
 xycloud.com
 xywy.com
+xyzcdn.net
+xyzfm.link
+xyzfm.space
 xyzq.com.cn
 xzking.com
 y43f6.cn
