@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2025-12-03 17:13:49
+# Date:     2025-12-04 04:16:49
 # Mode:     DOMAIN
-# Count:    116936 (Raw: 116936)
+# Count:    116935 (Raw: 116935)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -14496,7 +14496,6 @@ bbrmedia.com
 bbrtv.com
 bbs-alsontech.com
 bbs-go.com
-bbs.ztedevices.com
 bbs0415.com
 bbs0551.com
 bbs1x.net
@@ -44807,6 +44806,7 @@ hapierxia.com
 hapingapp.com
 hapipixia.com
 hapiyixia.com
+hapjs.org
 haplat.net
 happi123.com
 happigo.com
@@ -101420,7 +101420,6 @@ www.tutorabc.com
 www.uz0.xyz
 www.viveport.com
 www.volvocars.com
-www.ztedevices.com
 www2489.com
 www4-static.gog-statics.com
 www48-365365.com

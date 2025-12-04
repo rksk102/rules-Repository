@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2025-12-03 17:13:49
+# Date:     2025-12-04 04:16:49
 # Mode:     DOMAIN
-# Count:    26170 (Raw: 26170)
+# Count:    26208 (Raw: 26208)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -3808,6 +3808,7 @@ bloomsburycollections.com
 bloomsburydesignlibrary.com
 blowjobit.com
 blowjobqueens.net
+blox.com
 blpcareers.com
 blpevents.com
 blpprofessional.com
@@ -7370,6 +7371,7 @@ dynu.net
 dynupdate.no-ip.com
 dysfz.cc
 dzen.ru
+dzeninfra.ru
 dzze.com
 e-bay.com
 e-bay.it
@@ -10049,6 +10051,8 @@ go5.dev
 goagent.biz
 gobeatsye.com
 gobianywhere.com
+goblocks.com
+goblox.com
 gobuildx.net
 gobuyonlinestore.net
 gockhuatviet.com
@@ -10108,6 +10112,7 @@ gonzo-movies.com
 gonzo.com
 goo.gl
 goo.ne.jp
+gooblox.com
 good-gay.com
 good.news
 gooday.xyz
@@ -11660,6 +11665,7 @@ hulustream.com
 huluteam.com
 hulutv.com
 huluusa.com
+humancoexperience.com
 humanparty.me
 humanrightspressawards.org
 humblebundle.com
@@ -19179,6 +19185,8 @@ rbeopp.com
 rbeuroinfo.com
 rbgrads.com
 rbgraduates.com
+rblx.co
+rblx.com
 rblx.org
 rbmavericks.com
 rbnainternational.com
@@ -19188,6 +19196,9 @@ rbsgr.com
 rbspeakup.com
 rbx.com
 rbxcdn.com
+rbxinfra.net
+rbxlabs.com
+rbxtrk.com
 rcinet.ca
 rcl07.xyz
 rclon.com
@@ -19457,13 +19468,39 @@ rlwlw.com
 rm2029.com
 rmbl.ws
 rmjdw.com
+ro-blox.com
 ro89.com
 road-crew.com
+roadblocks.com
 roadshow.hk
-roblox-api.arkoselabs.co
+roblocks.com
+roblox-api.arkoselabs.com
 roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 roblox-poc.global.ssl.fastly.net
+roblox.ca
+roblox.cc
+roblox.cl
+roblox.co.jp
+roblox.co.uk
 roblox.com
+roblox.de
+roblox.dk
+roblox.eu
+roblox.fr
+roblox.hu
+roblox.it
+roblox.jp
+roblox.kr
+roblox.mx
+roblox.net
+roblox.org
+roblox.ph
+roblox.pt
+roblox.sk
+roblox.tv
+roblox.uk
+roblox.us
+roblox.vn
 robloxcorp.s.llnwi.net
 robloxlabs.com
 robobat.com
@@ -19508,6 +19545,8 @@ roughebonysex.com
 roughman.net
 routerboard.com
 routledgehandbooks.com
+rowblocks.com
+rowblox.com
 royalcams.com
 royalsocietypublishing.org
 rpglogs.com
@@ -26149,7 +26188,6 @@ zsh.org
 zspeeder.me
 zsrhao.com
 zsuxtx-ktv.shop
-ztedevices.com
 zteman.net
 zuckerberg.com
 zuckerberg.net
