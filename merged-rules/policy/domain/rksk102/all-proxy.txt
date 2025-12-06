@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2025-12-05 19:10:11
+# Date:     2025-12-06 08:25:00
 # Mode:     DOMAIN
-# Count:    26208 (Raw: 26208)
+# Count:    26212 (Raw: 26212)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -22241,6 +22241,7 @@ tiffany-towers.com
 tig-ol-bitties.live
 tigervpn.com
 tik-tokapi.com
+tiktok-row.net
 tiktok.com
 tiktokcdn-eu.com
 tiktokcdn-us.com
@@ -22248,6 +22249,8 @@ tiktokcdn.com
 tiktokd.net
 tiktokd.org
 tiktokeu-cdn.com
+tiktokglobalshopv.com
+tiktokminis.us
 tiktokrow-cdn.com
 tiktokv.com
 tiktokv.eu
@@ -26181,6 +26184,7 @@ zophar.net
 zopim.com
 zorglist.com
 zorrovpn.com
+zotero.org
 zozotown.com
 zpn.im
 zqqpwz.com
